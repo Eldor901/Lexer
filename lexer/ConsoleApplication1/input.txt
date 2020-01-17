@@ -1,0 +1,29 @@
+import "js"; "js     js"; 
+
+function(a+b):int
+{
+   return 0;
+}
+
+void(a, b)
+{ 
+   a=c;
+   b=c; 
+}
+
+
+int   main(int argc, char *argv[], char *env[]) {
+   
+   float=3.123;
+   float fl=(3.123E~5);
+   
+   float fl2=(-3.123E~5);
+
+   bin=0b01010;
+   numhex = 0hBBCD;
+
+
+
+   
+   return 123;
+}

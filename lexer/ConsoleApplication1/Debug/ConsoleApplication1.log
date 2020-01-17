@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\taifiya\lexer\consoleapplication1\tokenstate.h(327): warning C4018: '<': signed/unsigned mismatch
+d:\taifiya\lexer\consoleapplication1\main.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> D:\taifiya\lexer\ConsoleApplication1\Debug\Lexer.exe
